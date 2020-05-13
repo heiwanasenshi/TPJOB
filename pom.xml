@@ -107,9 +107,9 @@
   </dependencies>
           
   <scm>
-    <connection>scm:git:https://github.com/heiwanasenshi/tp</connection>
-    <developerConnection>scm:git:https://github.com/heiwanasenshi/tp</developerConnection>
-    <url>https://github.com/heiwanasenshi/tp</url>
+    <connection>scm:git:https://github.com/heiwanasenshi/tpjob</connection>
+    <developerConnection>scm:git:https://github.com/heiwanasenshi/tpjob</developerConnection>
+    <url>https://github.com/heiwanasenshi/tpjob</url>
   </scm>
   
   
